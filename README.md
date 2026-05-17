@@ -41,5 +41,11 @@ To analyze the HDFC loan dataset and extract meaningful insights such as:
 This project helped in understanding basic Exploratory Data Analysis (EDA) and data cleaning techniques.
 
 ---
+
+## 🎓 Certificate
+
+This project was completed as part of a certified workshop.
+
+![Certificate](certificate.jpg.jpeg)
 ## 👩‍💻 Author
 Anushka Saxena
