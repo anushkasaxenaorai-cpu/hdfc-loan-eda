@@ -46,7 +46,7 @@ This project helped in understanding basic Exploratory Data Analysis (EDA) and d
 
 This project was completed as part of a certified workshop.
 
-![Certificate](certificate.jpg)
+![Certificate](certificate)
 
 ## 👩‍💻 Author
 Anushka Saxena
